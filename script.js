@@ -1,4 +1,4 @@
-var _CONTENT = ["Front-End Developer...", "Html Css Bootstrap Js Jquery...", "Just kidding Haha..."];
+var _CONTENT = ["Front-End Developer...", "Html Css Bootstrap Js Jquery...", "Just kidding Haha...", "Dakilang tambay lang..."];
 var _PART = 0;
 var _PART_INDEX = 0;
 var _INTERVAL_VAL;
