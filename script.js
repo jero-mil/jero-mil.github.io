@@ -1,4 +1,4 @@
-var _CONTENT = ["Hey wassap yow...", "Thanks for visiting my site...", "Take care and keep safe always..."];
+var _CONTENT = ["Hey wassap yow..", "Thanks for visiting my site..", "Take care and keep safe always.."];
 var _PART = 0;
 var _PART_INDEX = 0;
 var _INTERVAL_VAL;
